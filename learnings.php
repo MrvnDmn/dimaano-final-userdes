@@ -38,7 +38,7 @@
           Class Works
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="activities.php">Activities  |  A1, A2, A3, A7, A9</a>
+          <a class="dropdown-item" href="activities.php">Activities  |  A1, A2, A3, A7, A8, A9</a>
           <a class="dropdown-item" href="reaction.php">Reaction Papers</a>
 		  <a class="dropdown-item" href="group.php">Group Works  |  A4, A5, A6</a>
 		  <a class="dropdown-item" href="learnings.php">Certificates</a>
