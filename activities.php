@@ -197,9 +197,9 @@ open door of the elevator.
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingFive">
+    <div class="card-header" id="headingSix">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
           Activity # 9: 12 Column Grid Design
         </button>
       </h5>
