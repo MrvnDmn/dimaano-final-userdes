@@ -185,10 +185,14 @@ open door of the elevator.
     </div>
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
       <div class="card-body">
-	  <h3>Figure 1: 4x3 Grid<h3>
+	  <h3>Figure 1: 4x3 Grid</h3>
 	  <img src="a8gridA.png"/>
-	  <h3>Figure 2: 4x3 Grid Design<h3>
+          <h3>Figure2: 4x4 Grid</h3>
+          <img src="a8gridB.png" />
+	  <h3>Figure 3: 4x3 Grid Design</h3>
 	  <img src="a8gridC.png"/>
+	  <h3>Figure 4: 4x4 Grid Design</h3>
+	  <img src="a8gridD.png"/>
       </div>
     </div>
   </div>
