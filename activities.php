@@ -183,7 +183,7 @@ open door of the elevator.
         </button>
       </h5>
     </div>
-    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
       <div class="card-body">
 	  <h3>Figure 1: 4x3 Grid</h3>
 	  <img src="a8gridA.png"/>
